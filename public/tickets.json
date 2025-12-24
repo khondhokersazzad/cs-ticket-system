@@ -1,0 +1,128 @@
+[
+  {
+    "id": "TCK-001",
+    "title": "Payment not going through",
+    "description": "Customer reports that their credit card payment fails during checkout.",
+    "customer": "Rahim Uddin",
+    "priority": "high",
+    "status": "open",
+    "createdAt": "2025-01-12T10:25:00Z"
+  },
+  {
+    "id": "TCK-002",
+    "title": "Unable to reset password",
+    "description": "Password reset link returns an expired token error.",
+    "customer": "Sadia Ahmed",
+    "priority": "medium",
+    "status": "open",
+    "createdAt": "2025-01-14T08:40:00Z"
+  },
+  {
+    "id": "TCK-003",
+    "title": "Order not delivered",
+    "description": "Customer claims order #4532 is 5 days late.",
+    "customer": "Hasan Mahmud",
+    "priority": "high",
+    "status": "in-progress",
+    "createdAt": "2025-02-01T14:00:00Z"
+  },
+  {
+    "id": "TCK-004",
+    "title": "Email notifications not working",
+    "description": "User not receiving order confirmation emails.",
+    "customer": "Nusrat Jahan",
+    "priority": "medium",
+    "status": "open",
+    "createdAt": "2025-02-03T09:12:00Z"
+  },
+  {
+    "id": "TCK-005",
+    "title": "App crashes at startup",
+    "description": "Mobile app freezes and closes instantly on Android 12.",
+    "customer": "Tanvir Rahman",
+    "priority": "high",
+    "status": "in-progress",
+    "createdAt": "2025-02-10T11:22:00Z"
+  },
+  {
+    "id": "TCK-006",
+    "title": "Wrong item received",
+    "description": "Customer received a different product than what they ordered.",
+    "customer": "Shamsul Islam",
+    "priority": "medium",
+    "status": "resolved",
+    "createdAt": "2025-02-11T15:30:00Z"
+  },
+  {
+    "id": "TCK-007",
+    "title": "Account locked",
+    "description": "User exceeded login attempts and wants account unlocked.",
+    "customer": "Jannat Ferdous",
+    "priority": "low",
+    "status": "open",
+    "createdAt": "2025-02-18T07:55:00Z"
+  },
+  {
+    "id": "TCK-008",
+    "title": "Refund request pending",
+    "description": "Customer refund has not been processed after 7 working days.",
+    "customer": "Mahfuz Chowdhury",
+    "priority": "medium",
+    "status": "in-progress",
+    "createdAt": "2025-02-19T10:10:00Z"
+  },
+  {
+    "id": "TCK-009",
+    "title": "Issue with coupon code",
+    "description": "User unable to apply NEW2025 coupon during checkout.",
+    "customer": "Farzana Sultana",
+    "priority": "low",
+    "status": "resolved",
+    "createdAt": "2025-02-20T16:40:00Z"
+  },
+  {
+    "id": "TCK-010",
+    "title": "Website slow loading",
+    "description": "Homepage taking 10+ seconds to load on a stable connection.",
+    "customer": "Akhter Hossain",
+    "priority": "high",
+    "status": "open",
+    "createdAt": "2025-02-22T13:50:00Z"
+  },
+  {
+    "id": "TCK-011",
+    "title": "Cannot update profile info",
+    "description": "User gets validation error while updating address.",
+    "customer": "Lamia Tanjin",
+    "priority": "low",
+    "status": "in-progress",
+    "createdAt": "2025-02-25T12:00:00Z"
+  },
+  {
+    "id": "TCK-012",
+    "title": "Live chat not responding",
+    "description": "Customer tried contacting support but chat stays offline.",
+    "customer": "Ariful Islam",
+    "priority": "medium",
+    "status": "open",
+    "createdAt": "2025-03-01T09:45:00Z"
+  },
+  {
+    "id": "TCK-013",
+    "title": "Incorrect billing amount",
+    "description": "Customer charged twice for the same transaction.",
+    "customer": "Monirul Islam",
+    "priority": "high",
+    "status": "resolved",
+    "createdAt": "2025-03-03T18:20:00Z"
+  },
+  {
+    "id": "TCK-014",
+    "title": "Feedback button not working",
+    "description": "Customer reports that the feedback form button does nothing.",
+    "customer": "Shahana Begum",
+    "priority": "low",
+    "status": "open",
+    "createdAt": "2025-03-05T11:10:00Z"
+  }
+]
